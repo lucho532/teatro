@@ -61,7 +61,7 @@ public class Main {
             }
             System.out.println("¿Desea finalizar la resrva? S: si. N:no");
             respuesta = teclado.next();
-            if (respuesta.equalsIgnoreCase("S")) {
+            if (respuesta.equalsIgnoreCase("S")){
                 bandera = true;
             }
         }
